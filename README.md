@@ -1,4 +1,4 @@
-**K-Means Clustering Segmentation Analysis**
+**K-Means Segmentation Analysis**
 
 📌 **Project Overview**
 This project applies K-Means Clustering to segment countries based on Life Expectancy, GDP per Capita, and Population. The analysis helps identify patterns in global economic development and health outcomes, providing insights for policymakers and researchers.
